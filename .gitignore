@@ -1,0 +1,21 @@
+# 编译产物
+build/
+MDK-ARM/
+
+# 临时文件
+*.tmp
+*.temp
+
+# IDE文件
+.vscode/
+.idea/
+
+# 生成的文件
+mx.scratch
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 其他
+*~
